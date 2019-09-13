@@ -84,7 +84,7 @@ console.log()
 let lastCar = inventory[49].car_make + " " + inventory[49].car_model;
 console.log(lastCar);
 
-// ==== Challenge 3 ====
+// ==== Challenge 3 ===
 // The marketing team wants the car models listed alphabetically on the website. Sort all the car model names into alphabetical order and log the results in the console
 let carModels = [inventory];
 let carModelsSorted = [];
